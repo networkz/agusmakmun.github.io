@@ -32,9 +32,9 @@ share:
   fb_appid: 
 
 urls:
-    - text: A propos
+    - text: About
       url: /about/
-    - text: Flux XML
+    - text: XML Feed
       url: /feed.xml
 
 url: "https://networkz.github.io"
