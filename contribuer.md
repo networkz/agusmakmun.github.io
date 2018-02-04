@@ -4,6 +4,12 @@ title: Contribuer
 permalink: /contribuer/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+# Contribuez au site
 
-email: agus[at]python.web.id
+## Démarche
+
+Networkz est un site collaboratif. Les traductions proposées sont réalisées par des anglophones (et anglophiles) sensibles aux questions relatives à la vie privée sur Internet.
+
+Le site utilise la plateforme **Github** à la fois comme moyen de contribution et comme mode d'hébergement (via Github Pages). Cette plateforme, utilisée principalement par des développeurs, permet à tout un chacun de visualiser, télecharger et proposer des modifications sur l'intégralité des fichiers du site, code et texte.
+
+## Pré-requis
