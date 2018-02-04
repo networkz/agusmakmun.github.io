@@ -1,10 +1,10 @@
-title: Derniers articles
-description: Magazine scientifique
+title: Dernières traductions
+description: Traduction de publications
 author: Networkz
 github: https://github.com/networkz
-about: 
+about:
 disqus_shortname: networkz
-google_analytics: 
+google_analytics:
 avatar_url: /static/img/avatar.jpg
 
 enableTags: true
@@ -28,13 +28,15 @@ social:
       link: "https://github.com/networkz/networkz.github.io"
 
 share:
-  twitter_username: 
-  fb_appid: 
+  twitter_username:
+  fb_appid:
 
 urls:
-    - text: About
+    - text: A propos
       url: /about/
-    - text: XML Feed
+    - text: Contribuer
+      url: /contribuer/
+    - text: Flux XML
       url: /feed.xml
 
 url: "https://networkz.github.io"
