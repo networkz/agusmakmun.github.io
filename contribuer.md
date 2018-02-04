@@ -12,14 +12,11 @@ Le site utilise la plateforme **Github** à la fois comme moyen de contribution 
 
 # Pré-requis
 
-* Créer un compte Github
-> [Page d'accueil de Github](https://github.com/)
+* Créer un compte Github - [Page d'accueil de Github](https://github.com/)
 
-* Apprendre les règles de la syntaxe *Markdown*
-> [Antisèche Markdown, par Github](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* Apprendre les règles de la syntaxe *Markdown* - [Antisèche Markdown, par Github](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-* Télecharger un editeur de texte gérant la syntaxe *Mardown*
-> [*Atom*](https://atom.io/) par exemple, il existe également des éditeurs en ligne comme [*Dillinger*](https://dillinger.io/)
+* Télecharger un editeur de texte gérant la syntaxe *Mardown*. [*Atom*](https://atom.io/) par exemple, il existe également des éditeurs en ligne comme [*Dillinger*](https://dillinger.io/)
 
 # Principe d'une contribution
 
